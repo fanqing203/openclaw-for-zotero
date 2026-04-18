@@ -4,7 +4,7 @@
       "updates": [
         {
           "version": "1.0.0",
-          "update_link": "https://github.com/openclaw/openclaw-for-zotero/releases/download/v1.0.0/OpenClaw-Zotero-v1.0.0.xpi",
+          "update_link": "https://github.com/fanqing203/openclaw-for-zotero/releases/download/v1.0.0/OpenClaw-Zotero-v1.0.0.xpi",
           "applications": {
             "zotero": {
               "strict_min_version": "7.0",
